@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 𓀘 iOS (Swift)
-- 𓀗 Flutter (Dart)
-- 𓀗 NestJS (TypeScript)
+- 🏎️ iOS (Swift)
+- 🏍️ Flutter (Dart)
+- 🧑🏻‍🦼 NestJS (TypeScript)
