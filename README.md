@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏎️ iOS (Swift)
-- 🏍️ Flutter (Dart)
-- 🧑🏻‍🦼 NestJS (TypeScript)
+iOS: Pure SwiftUI
+Backend: Hono
