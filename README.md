@@ -1,4 +1,4 @@
-### Hi there 👋
+### Making Tools or Toys 
 
 <!--
 **winddpan/winddpan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-iOS: Pure SwiftUI
-Backend: Hono
+- iOS: Pure SwiftUI
+- Backend: Hono
