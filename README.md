@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- iOS: Pure SwiftUI
+- iOS: 99% SwiftUI
 - Backend: Hono
+
+### My Apps
+* [AIBoard](https://apps.apple.com/us/app/aiboard-writing-tools-board/id6451245337?platform=iphone)
+* [XCStringsGPTTranslator](https://apps.apple.com/hr/app/xcstringsgpttranslator/id6478529319)
