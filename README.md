@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - iOS: 99% SwiftUI
 - Backend: Hono
 
-### My Apps
-* [AIBoard](www.aiboard.chat)
-* [大字照片](www.bigtextphoto.com)
-* [XCStringsGPTTranslator](https://apps.apple.com/hr/app/xcstringsgpttranslator/id6478529319)
+## My Apps
+- [AIBoard](http://www.aiboard.chat)
+- [大字照片](http://www.bigtextphoto.com)
+- [XCStringsGPTTranslator](https://apps.apple.com/hr/app/xcstringsgpttranslator/id6478529319)
