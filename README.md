@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - Backend: Hono
 
 ### My Apps
-* [AIBoard](https://apps.apple.com/us/app/aiboard-writing-tools-board/id6451245337?platform=iphone)
-* [XCStringsGPTTranslator](https://apps.apple.com/hr/app/xcstringsgpttranslator/id6478529319)
+* [AIBoard](www.aiboard.chat)
 * [大字照片](www.bigtextphoto.com)
+* [XCStringsGPTTranslator](https://apps.apple.com/hr/app/xcstringsgpttranslator/id6478529319)
