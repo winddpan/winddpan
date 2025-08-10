@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - Backend: Hono
 
 ## My Apps
-- [AIBoard](http://www.aiboard.chat)
-- [大字照片](http://www.bigtextphoto.com)
+- https://www.aiboard.chat
+- https://www.bigtextphoto.com
+- https://www.jetjson.com
 - [XCStringsGPTTranslator](https://apps.apple.com/hr/app/xcstringsgpttranslator/id6478529319)
